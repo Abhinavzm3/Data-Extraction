@@ -1,0 +1,15 @@
+Images found: ['sample_image4.png']
+Current dir: C:\Users\akm\Documents\projects\Aadhar-Data-Extraction
+Processing sample_image4.png
+Image loaded: (667, 1045, 3)
+Detection complete
+Detected name: Sakhi bai kushwah
+Detected dob: B 10/10/1989
+Detected aadhar_no: 9826 6359 8852
+Found 3 potential boxes
+NMS kept 3 boxes
+--- Extracted Information ---
+name: ['Sakhi bai kushwah']
+dob: ['B 10/10/1989']
+aadhar_no: ['9826 6359 8852']
+-----------------------------

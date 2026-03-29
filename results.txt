@@ -1,0 +1,6 @@
+--- Extracted Information ---
+name: ['Sutapa Pal Datta']
+dob: ['26/01/1979']
+aadhar_no: ['6641 2804 9316']
+gender: ['FEMALE']
+-----------------------------
